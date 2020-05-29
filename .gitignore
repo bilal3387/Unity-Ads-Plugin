@@ -1,9 +1,9 @@
-[Ll]ibrary/
-//[Ll]ogs
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
+Library/
+Logs/
+Temp/
+Obj/
+Build/
+Builds/
 Assets/Plugins/
 /Assets/Scenes/
 Assets/AssetStoreTools*
