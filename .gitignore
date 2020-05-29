@@ -1,12 +1,7 @@
 Library/
 Logs/
 Temp/
-Obj/
-Build/
-Builds/
-Assets/Plugins/
-/Assets/Scenes/
-Assets/AssetStoreTools*
+Packages/
 
 # Visual Studio cache directory
 .vs/
