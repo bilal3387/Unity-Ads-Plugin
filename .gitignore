@@ -1,6 +1,8 @@
 Library
 Temp
 Logs
+Packages
+ProjectSettings
 
 # Visual Studio cache directory
 .vs/
