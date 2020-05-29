@@ -1,6 +1,5 @@
-Library/
-Temp/
-Packages/
+Library
+Temp
 
 # Visual Studio cache directory
 .vs/
