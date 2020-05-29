@@ -1,8 +1,8 @@
-Library
-Temp
+Library/
+Temp/
 Logs
-Packages
-ProjectSettings
+Packages/
+ProjectSettings/
 
 # Visual Studio cache directory
 .vs/
